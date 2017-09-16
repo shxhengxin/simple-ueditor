@@ -9,7 +9,7 @@
 ## 使用
 1. clone 代码
 ```git
-git clone https://github.com/JellyBool/simple-ueditor.git
+git clone https://github.com/shxhengxin/simple-ueditor.git
 ```
 2.用此项目的 `ueditor` 目录替换原来的 `ueditor` 目录
 
